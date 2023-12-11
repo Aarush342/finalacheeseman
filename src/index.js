@@ -19,7 +19,6 @@ createRoot(document.getElementById("root")).render(
       <p>CHEESEMAN RACING</p>
       <p>W A S D to move </p>
       <p>R to reset</p>
-      <a href = "game.cheeseman.xyz">BACK TO CHEESE GAMES</a>
     </div>
   </>
 );
