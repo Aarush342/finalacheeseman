@@ -16,7 +16,7 @@ createRoot(document.getElementById("root")).render(
     </Canvas>
 
     <div class="controls">
-      <p>CHEESEMAN RACING</p>
+      <p>RACING</p>
       <p>W A S D to move </p>
       <p>R to reset</p>
     </div>
